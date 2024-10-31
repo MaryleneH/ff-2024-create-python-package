@@ -15,7 +15,7 @@ You can contribute in many ways, for example:
 
 ### Report Bugs
 
-Report bugs at https://github.com//mypackage_test/issues.
+Report bugs at https://github.com//my_package_MaryleneH/issues.
 
 **If you are reporting a bug, please follow the template guidelines. The more
 detailed your report, the easier and thus faster we can help you.**
@@ -39,30 +39,30 @@ happy for any support that they can get.
 
 ### Write Documentation
 
-mypackage_test could always use more documentation, whether as
+my_package_MaryleneH could always use more documentation, whether as
 part of the official documentation, in docstrings, or even on the web in blog
 posts, articles, and such. Just [open an issue](https://github.com//
-mypackage_test/issues) to let us know what you will be working on
+my_package_MaryleneH/issues) to let us know what you will be working on
 so that we can provide you with guidance.
 
 ### Submit Feedback
 
 The best way to send feedback is to file an issue at https://github.com/
-/mypackage_test/issues. If your feedback fits the format of one of
+/my_package_MaryleneH/issues. If your feedback fits the format of one of
 the issue templates, please use that. Remember that this is a volunteer-driven
 project and everybody has limited time.
 
 ## Get Started!
 
-Ready to contribute? Here's how to set up mypackage_test for
+Ready to contribute? Here's how to set up my_package_MaryleneH for
 local development.
 
-1. Fork the https://github.com//mypackage_test
+1. Fork the https://github.com//my_package_MaryleneH
    repository on GitHub.
 2. Clone your fork locally
 
     ```shell
-    git clone git@github.com:your_name_here/mypackage_test.git
+    git clone git@github.com:your_name_here/my_package_MaryleneH.git
     ```
 
 3. [Install hatch](https://hatch.pypa.io/latest/install/).

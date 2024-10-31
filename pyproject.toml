@@ -11,7 +11,7 @@ requires = ["hatchling"]
 ################################################################################
 
 [project]
-name = "mypackage_test"
+name = "my_package_MaryleneH"
 
 version = "0.1.0"
 
@@ -42,8 +42,8 @@ keywords = []
 dependencies = []
 
 [project.urls]
-Documentation = "https://mypackage_test.readthedocs.io"
-Download = "https://pypi.org/project/mypackage_test/#files"
+Documentation = "https://my_package_MaryleneH.readthedocs.io"
+Download = "https://pypi.org/project/my_package_MaryleneH/#files"
 
 [project.optional-dependencies]
 dev = [
@@ -59,7 +59,7 @@ dev = [
 only-packages = true
 
 [tool.hatch.build.targets.wheel]
-packages = ["src/mypackage_test"]
+packages = ["src/my_package_MaryleneH"]
 
 # Create a Hatch environment
 
